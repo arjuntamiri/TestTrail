@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-new file5 added..
-
-edited from remote master....!!
-
-my personal changes... edited from local mybranch !!
-=======
 conflict file5.txt added from local mybranch...
 
 my personal changes...
->>>>>>> mybranch
+
